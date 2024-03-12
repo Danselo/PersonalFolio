@@ -4,7 +4,7 @@ const Courses = () => {
     const courses = [
         {
             title: "Tecnológo en análisis y desarrollo de sistemas de información",
-            icon: "src/assets/sena.png",
+            icon: process.env.NODE_ENV === "production" ? "/assets/sena.png" : "src/assets/sena.png",
         },
         {
             title: "Curso Básico de JavaScript",
