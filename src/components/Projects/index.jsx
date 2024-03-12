@@ -16,7 +16,7 @@ const Projects = () => {
             description: "A classic Tic Tac Toe game that brings nostalgic fun into the digital age. Players can enjoy this timeless strategy game online, featuring a clean interface and smooth gameplay for endless entertainment.",
             url : "https://tictactoe-sooty-alpha.vercel.app",
             styleContainer : "container-card container-card2",
-            urlCode : "https://github.com/Danselo/TaskProyectReact",
+            urlCode : "https://github.com/Danselo/TICTACTOE",
         },
         {
             title: "ToDo Project",
