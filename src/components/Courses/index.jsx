@@ -4,7 +4,7 @@ const Courses = () => {
     const courses = [
         {
             title: "Tecnológo en análisis y desarrollo de sistemas de información",
-            icon: process.env.NODE_ENV === "production" ? "/assets/sena.png" : "src/assets/sena.png",
+            icon: "src/assets/sena.png",
         },
         {
             title: "Curso Básico de JavaScript",
@@ -32,19 +32,19 @@ const Courses = () => {
         },
         {
             title: "Curso de React.js con Vite.js y TailwindCSS",
-            icon: "src/assets/curso-react-vite-tailwin-removebg-preview.png",
+            icon: "./src/assets/curso-responsive-design-removebg-preview.png",
         },
         {
             title: "Curso de React.js (Platzi)",
-            icon: "src/assets/curso-react-removebg-preview.png",
+            icon: "./src/assets/curso-responsive-design-removebg-preview.png",
         },
         {
             title: "Curso de Responsive Design: Maquetación Mobile First",
-            icon: "src/assets/curso-responsive-design-removebg-preview.png",
+            icon: "./src/assets/curso-responsive-design-removebg-preview.png",
         },
         {
             title: "Prueba Técnica: E-commerce Profesional con React.js",
-            icon: "src/assets/prueba-tecnica-ecommerce-react-removebg-preview.png",
+            icon: "./src/assets/prueba-tecnica-ecommerce-react-removebg-preview.png",
         },
         {
             title: "Curso Práctico de JavaScript",
