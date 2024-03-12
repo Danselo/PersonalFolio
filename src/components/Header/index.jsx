@@ -13,7 +13,7 @@ const Header = () => {
                         </figure>
                         <div className="container-header_social-media">
                             <a href="https://github.com/Danselo"><FontAwesomeIcon icon={faGithub} size="1x" className="container-header_social-media-github" /></a>
-                            <a href="https://co.linkedin.com/in/danilo-lora-5515552b0"><FontAwesomeIcon icon={faLinkedinIn} size="1x"className="container-header_social-media-linkedin" /></a>
+                            <a href="https://i.ibb.co/F8jxNtv/perfil.jpg"><FontAwesomeIcon icon={faLinkedinIn} size="1x"className="container-header_social-media-linkedin" /></a>
                         </div>
              
                     </div>
