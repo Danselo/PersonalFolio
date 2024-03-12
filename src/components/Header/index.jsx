@@ -9,7 +9,7 @@ const Header = () => {
             <div className="container-header">
                     <div className="container-header-card">
                         <figure>
-                            <img src="/src/assets/perfil.jpg" alt="profile.jpg" className="container-header_image" />
+                            <img src="src/assets/perfil.jpg" alt="profile.jpg" className="container-header_image" />
                         </figure>
                         <div className="container-header_social-media">
                             <a href="https://github.com/Danselo"><FontAwesomeIcon icon={faGithub} size="1x" className="container-header_social-media-github" /></a>
