@@ -8,7 +8,7 @@ const Footer = () => {
                 <figure>
                     <img src="https://i.ibb.co/QMgkgYZ/logoD.png" alt="" className="logo-danilo-footer"/>
                 </figure>
-                <h3>Gracias por su atención</h3>
+                <h3>Thank you for watching.</h3>
             </footer>
             
         </>
