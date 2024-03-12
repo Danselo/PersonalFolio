@@ -12,43 +12,43 @@ const Courses = () => {
         },
         {
             title: "Curso de Asincronismo con JavaScript",
-            icon: "/assets/curso-asincronismo-js-removebg-preview.png",
+            icon: "src/assets/curso-asincronismo-js-removebg-preview.png",
         },
         {
             title: "Curso de ECMAScript: Historia y Versiones de JavaScript",
-            icon: "/assets/curso-ecmascript-removebg-preview.png",
+            icon: "src/assets/curso-ecmascript-removebg-preview.png",
         },
         {
             title: "Curso de Frontend Developer",
-            icon: "/assets/curso-frontend-removebg-preview.png",
+            icon: "src/assets/curso-frontend-removebg-preview.png",
         },
         {
             title: "Curso de Introducción a la Terminal y Línea de Comandos",
-            icon: "/assets/curso-introducción-linea-comandos-removebg-preview.png",
+            icon: "src/assets/curso-introducción-linea-comandos-removebg-preview.png",
         },
         {
             title: "Curso de JavaScript Engine (V8) y el Navegador",
-            icon: "/assets/curso-javascript-engine-removebg-preview.png",
+            icon: "src/assets/curso-javascript-engine-removebg-preview.png",
         },
         {
             title: "Curso de React.js con Vite.js y TailwindCSS",
-            icon: "/assets/curso-react-vite-tailwin-removebg-preview.png",
+            icon: "src/assets/curso-react-vite-tailwin-removebg-preview.png",
         },
         {
             title: "Curso de React.js (Platzi)",
-            icon: "/assets/curso-react-removebg-preview.png",
+            icon: "src/assets/curso-react-removebg-preview.png",
         },
         {
             title: "Curso de Responsive Design: Maquetación Mobile First",
-            icon: "/assets/curso-responsive-design-removebg-preview.png",
+            icon: "src/assets/curso-responsive-design-removebg-preview.png",
         },
         {
             title: "Prueba Técnica: E-commerce Profesional con React.js",
-            icon: "/assets/prueba-tecnica-ecommerce-react-removebg-preview.png",
+            icon: "src/assets/prueba-tecnica-ecommerce-react-removebg-preview.png",
         },
         {
             title: "Curso Práctico de JavaScript",
-            icon: "/assets/curso-practico-javascript.png",
+            icon: "src/assets/curso-practico-javascript.png",
         },
 
     ];
