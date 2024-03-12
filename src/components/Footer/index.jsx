@@ -6,7 +6,7 @@ const Footer = () => {
         <>
             <footer className="container-footer">
                 <figure>
-                    <img src="src/assets/logoD.png" alt="" className="logo-danilo-footer"/>
+                    <img src="https://i.ibb.co/QMgkgYZ/logoD.png" alt="" className="logo-danilo-footer"/>
                 </figure>
                 <h3>Gracias por su atención</h3>
             </footer>

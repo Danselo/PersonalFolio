@@ -6,7 +6,7 @@ const Nav = () => {
         <>
             <nav className="container-nav">
                 <figure>
-                    <img src="src/assets/logoD.png" alt="" className="logo-Danilo"/>
+                    <img src="https://i.ibb.co/QMgkgYZ/logoD.png" alt="" className="logo-Danilo"/>
                 </figure>
                 <ul className="container-nav-list">
                     <li id="About_me"> <a href="#about-me">About Me</a></li>
